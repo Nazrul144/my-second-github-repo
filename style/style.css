@@ -1,0 +1,13 @@
+div{
+    background-color: aquamarine;
+    
+}
+div > p{
+    font-size: 25px;
+}
+ul{
+    color: tomato;
+}
+img{
+    width: 400px;
+}
